@@ -1,2 +1,2 @@
-# Airline_Ticket_Price_Prediction
+# Airline_Ticket_Fare_Prediction
  
